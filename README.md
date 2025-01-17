@@ -5,3 +5,17 @@ The "DRS-Bank-Loan-Approval-Optimizer" project is designed to develop a scientif
 ### This project seeks to answer the following key questions:
 1. Identify the criteria to approve loans for an individual customer such that the likelihood of the loan delinquency is minimized?
 2. What are the factors that drive the behavior of loan delinquency?
+
+### Data Dictionary
+
+
+### Files for Project
+
+
+### Exploratory data analysis
+
+
+### Data manipulation
+
+
+### Actionable Insights and business recommendation
